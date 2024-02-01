@@ -7,9 +7,9 @@ using sknativefunctions.plugins;
 
 
 
-const string azureOpenAIDeploymentName = "sktestdeployment";
-const string azureOpenAIEndpoint = "https://anywheredevoai.openai.azure.com/";
-const string azureOpenAIAPIKey = "8fd61b7493604b469a70bc6e62ed0cc7";
+const string azureOpenAIDeploymentName = "<DeploymentName>";
+const string azureOpenAIEndpoint = "<EndpointName>";
+const string azureOpenAIAPIKey = "<AzureOPenAIKey>;
 const string azureOPenAIModelId = "gpt-35-turbo";
 
 
