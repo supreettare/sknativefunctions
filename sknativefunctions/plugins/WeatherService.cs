@@ -9,7 +9,7 @@ namespace sknativefunctions.plugins
 {
     public class WeatherService
     {
-        private static readonly string _apiKey= "e4b1d7b128047d0aee0a8303454e4e1f";
+        private static readonly string _apiKey= "<APIKeyFromOpenWeather>";
 
         public WeatherService()
         {
